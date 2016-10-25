@@ -4,3 +4,4 @@ SOAApplication/SOAComposite/.data
 SOAApplication/SOAComposite/SOA/SCA-INF/bpel
 SOAApplication/SOAComposite/SOA/SCA-INF/*diagram*
 SOAApplication/**/*test-output
+shared-metadata/target/*
